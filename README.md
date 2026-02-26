@@ -1,2 +1,3 @@
-# .github
-A special repository for organization.
+# .github  
+
+This repository contains the public profile for the LeafLock organization. 
